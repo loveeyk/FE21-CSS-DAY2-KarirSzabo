@@ -1,0 +1,22 @@
+header h1 {
+  text-align: center;
+}
+.wrapper {
+  display: flex;
+  flex-direction: row;
+}
+a {
+  background-color: aqua;
+}
+footer {
+  background-color: #eeeeee;
+  color: #666666;
+  text-shadow: 1px 1px 30px #000000;
+}
+.navbar {
+  background-color: deepskyblue;
+  text-decoration: underline;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
